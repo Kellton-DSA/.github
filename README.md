@@ -1,2 +1,2 @@
 # .github
-This is a collection of AI ML PoCs
+This is a collection of Kellton's AI ML PoCs
